@@ -1,14 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+		"createDateTime":"2019-09-05T07:54:45.272",
+		"elapsedMillis":206,
+		"success":true,
+		"errors":[],
+		"warnings":[],
+		"info":[],
+		"payload":{"materialName":"R007Z00173-CSB1","workOrderNumber":"BUBUR40176","machineName":"BURP001"}
+	}
